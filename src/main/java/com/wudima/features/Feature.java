@@ -6,4 +6,8 @@ public class Feature {
 
     int id;
 
+    public Feature(String name, int id) {
+        this.name = name;
+        this.id = id;
+    }
 }
