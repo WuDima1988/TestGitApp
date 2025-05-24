@@ -13,5 +13,10 @@ public class Main {
 
             System.out.println("i = " + i);
         }
+
+          for (int x = 1; x <= 5; x++) {
+
+            System.out.println("x = " + x);
+        }
     }
 }
