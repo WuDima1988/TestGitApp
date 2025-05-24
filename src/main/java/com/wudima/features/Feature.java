@@ -10,4 +10,5 @@ public class Feature {
         this.name = name;
         this.id = id;
     }
+
 }
